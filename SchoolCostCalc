@@ -1,5 +1,7 @@
 // Daniel Shackelford, COSC 1437, 11/15/19
-// Dr.T
+// Dr.Tyson McMillan
+//Purpose was to create a simple school cost calculator
+//I learned quite a bit on the different properties of ADTs and polymorphism
 #include <iostream>
 #include <string>
 #include "Input_Validation_Extended.h"
