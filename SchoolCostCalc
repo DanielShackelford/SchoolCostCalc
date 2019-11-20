@@ -1,5 +1,5 @@
 // Daniel Shackelford, COSC 1437, 11/15/19
-// Dr.Tyson McMillan
+// Dr.Tyson McMillan, Tarrant County College
 //Purpose was to create a simple school cost calculator
 //I learned quite a bit on the different properties of ADTs and polymorphism
 #include <iostream>
